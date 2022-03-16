@@ -1,0 +1,38 @@
+h1 {
+    color: aquamarine;
+}
+
+#ok {
+    background-color: rebeccapurple;
+    border: 20px solid black;
+}
+
+.class1 {
+    background-color: grey;
+}
+
+#gets {
+    color: cornflowerblue;
+}
+
+#bs {
+    text-align: center;
+    margin: 100px;
+}
+
+body {
+    background-color: #F9E7D7;
+}
+
+#mad {
+    text-align: center;
+    font-size: 10em;
+    color: red;
+}
+
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
